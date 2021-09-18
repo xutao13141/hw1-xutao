@@ -1,0 +1,31 @@
+{
+  "tests": [
+    {
+      "name": "Size 3",
+      "setup": "",
+      "run": "gradle test --tests \"DrawRocketTest.testSize3\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10
+    },
+    {
+      "name": "Size 4",
+      "setup": "",
+      "run": "gradle test --tests \"DrawRocketTest.testSize4\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10
+    },
+    {
+      "name": "Size 5",
+      "setup": "",
+      "run": "gradle test --tests \"DrawRocketTest.testSize5\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10
+    }
+  ]
+}
